@@ -1,0 +1,40 @@
+{
+  "LastProcessedCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+  "Items": {
+    "fcbb862260d0527d7058597b05ea5c7ad9c7909f": {
+      "SourceFileCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+      "SourceFilePath": "articles\\test\\architecture-overview.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "db9ae0a644cdfe47be730c959c0d637513aa9203": {
+      "SourceFileCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+      "SourceFilePath": "articles\\test\\db9ae0a644cdfe47be730c959c0d637513aa9203.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "df858fce3585e102d26f467bca2b0755ecf24824": {
+      "SourceFileCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+      "SourceFilePath": "articles\\test\\df858fce3585e102d26f467bca2b0755ecf24824.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "d3486ae9136e7856bc42212385ea797094475802": {
+      "SourceFileCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+      "SourceFilePath": "articles\\test\\hello.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    },
+    "ccb3dc82a246bd4956fb71b29fc86504980828a6": {
+      "SourceFileCommit": "ca643eda5f6436c4a0668ad9d93cc36733277e24",
+      "SourceFilePath": "articles\\test\\resource-group-advanced-template.md",
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
+    }
+  }
+}
